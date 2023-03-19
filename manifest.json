@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "name": "PresenTime",
+  "description": "New app for management your presentation",
+  "main": "index.html",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "api_version": "1.0.0",
+  "app_id": 51584703
+}
